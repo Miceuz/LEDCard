@@ -1,0 +1,39 @@
+PCBNEW-LibModule-V1  Tue 08 Oct 2013 09:26:20 PM CEST
+# encoding utf-8
+Units mm
+$INDEX
+BATT
+$EndINDEX
+$MODULE BATT
+Po 0 0 0 15 5252FFC3 00000000 ~~
+Li BATT
+Cd CR2032 battery holder
+Kw battery
+Sc 0
+AR 
+Op 0 0 0
+T0 0 4.2 1 1 0 0.15 N V 21 N "BATT"
+T1 0 -4 1 1 0 0.15 N V 21 N "VAL**"
+$PAD
+Sh "1" C 17.8 17.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "VCC"
+Po 0.025 0
+$EndPAD
+$PAD
+Sh "2" R 2.5 5.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "GND"
+Po 11.45 0
+$EndPAD
+$PAD
+Sh "2" R 2.5 5.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -11.45 0
+$EndPAD
+$EndMODULE BATT
+$EndLIBRARY

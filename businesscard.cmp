@@ -1,0 +1,241 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Tue 08 Oct 2013 10:25:03 PM CEST
+
+BeginCmp
+TimeStamp = /525027A3;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = BATT;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502803;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /525027EF;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52503548;
+Reference = CON1;
+ValeurCmp = AVR-ISP-6;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502A81;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502AF3;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502CED;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502FA5;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502B60;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502B98;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502CF3;
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502FAB;
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502B66;
+Reference = D9;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502C15;
+Reference = D10;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502CF9;
+Reference = D11;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502FB1;
+Reference = D12;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502E51;
+Reference = D13;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502E89;
+Reference = D14;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502E8F;
+Reference = D15;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502FB7;
+Reference = D16;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /525030FA;
+Reference = D17;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /52503100;
+Reference = D18;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /52503106;
+Reference = D19;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /5250310C;
+Reference = D20;
+ValeurCmp = LED;
+IdModule  = LED-0603-nosilk;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502785;
+Reference = IC1;
+ValeurCmp = ATTINY44-S;
+IdModule  = SO14E;
+EndCmp
+
+BeginCmp
+TimeStamp = /52544D48;
+Reference = Q1;
+ValeurCmp = MOSFET_N;
+IdModule  = SOT23GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502AAB;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502B50;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502BF0;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /52502E95;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /52503112;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /52544DE3;
+Reference = R6;
+ValeurCmp = 10M;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /52544D57;
+Reference = R7;
+ValeurCmp = 680k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /525469E1;
+Reference = R8;
+ValeurCmp = 10k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+EndListe
